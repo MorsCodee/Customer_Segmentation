@@ -90,8 +90,8 @@ These two features were chosen because they best represent customer purchasing b
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/your-username/customer-segmentation.git
-   cd customer-segmentation
+   git clone https://github.com/MorsCodee/Customer_Segmentation.git
+   cd Customer_Segmentation
    ```
 2. Install required libraries
 
